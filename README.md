@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://aicreatenow.com/">
-    <img src="organization-logo.png" alt="AI Creations Now Software Development" width="120" height="120">
+  <a href="https://aicreatenow.com/scriptrunner.html">
+    <img src="scriptrunner-headline.jpg" alt="AI Creations Now PowerShell Script Runner product artwork" width="900">
   </a>
 </p>
 
 <h1 align="center">PowerShell Script Runner</h1>
 
-A free, signed, portable Windows utility from **AI Creations Now Software Development**. Select a local PowerShell `.ps1` file, launch it as Administrator in a console that stays open, and return to your 20 most recently launched scripts.
+A free, signed, portable Windows utility from **AI Creations Now Software Development**. Select a local PowerShell `.ps1` file, launch it as Administrator in a console that stays open, and return to your 20 most recently launched scripts. Script Runner handles launching and keeps output visible; it does not repair or debug script code.
 
 <p align="center">
   <a href="https://aicreatenow.com/scriptrunner.html">Official product page</a> · <a href="https://download.aicreatenow.com/software/AICNowSCriptRunnerSigned.exe"><strong>Download free for Windows</strong></a> · <a href="https://download.aicreatenow.com/media/aicreatenow/scriptrunner4k.mp4">Video walkthrough</a>
