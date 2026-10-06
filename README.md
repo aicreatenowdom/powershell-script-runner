@@ -66,6 +66,12 @@ See [Support](SUPPORT.md) for product help or contact [info@aicreatenow.com](mai
 
 [Optional support through Stripe](https://buy.stripe.com/14A3cx63V00MfMEcoe5kk07) helps fund updates and support. Payment is voluntary and does not unlock features. These payments support a commercial software product and are not charitable or tax-deductible donations.
 
+## Practical guide and release notes
+
+[Getting started and common questions](GETTING-STARTED.md) · [GitHub release notes](https://github.com/aicreatenowdom/powershell-script-runner/releases) · [Support](SUPPORT.md)
+
+GitHub's **Code → Download ZIP** contains this repository's documentation and artwork. Get the Windows application through the [official product page](https://aicreatenow.com/scriptrunner.html).
+
 ## Source and licensing
 
 This repository contains documentation for proprietary software. Application source code is not included. Obtain the application and its applicable terms through the official product page.
